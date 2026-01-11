@@ -11,6 +11,13 @@ Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` au
 <a href="https://github.com/vlucas/phpdotenv/releases"><img src="https://img.shields.io/github/release/vlucas/phpdotenv.svg?style=flat-square" alt="Latest Version"></img></a>
 </p>
 
+<div align="center">
+
+**Special thanks to [our sponsors](https://github.com/sponsors/GrahamCampbell)**
+
+<hr>
+</div>
+
 
 ## Why .env?
 
