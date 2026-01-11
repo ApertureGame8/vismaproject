@@ -1,0 +1,7 @@
+https://getcomposer.org/download/
+
+https://downloads.php.net/~windows/releases/archives/php-8.5.1-Win32-vs17-x64.zip
+
+kjør php -S 127.0.0.1:8000 -t .
+
+kommer sikkert til å glemme alt etterpå >:(
